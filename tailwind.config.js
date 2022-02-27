@@ -9,12 +9,16 @@ module.exports = {
       },
       colors: {
         primary: {
-          100: "#cccccc",
-          600: "#3e7e95",
+          500: "#856D4D",
         },
         secondary: {
-          500: "#99CC99",
+          800: "3D2B1F",
         },
+        menu: {
+          900: "#19241A",
+        },
+        black: "130802",
+        background: "#f9f9f9",
       },
       aspectRatio: {
         square: [1, 1],
