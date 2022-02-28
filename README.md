@@ -4,16 +4,13 @@ Currently this is being used to extract out shared libraries and generate an app
 
 ## Goals
 
-* Set up typescript
+* Set up Typescript
+* Set up eslint
 * Set up React Router
 * Create a SSO login
-* Extract each one to the cra-template
-* Create basic components
-** menu
-** inputs
-** buttons
-** Heading
-** Icons
+* Extract these features to the cra-template
+* Create basic components (Menu, Input, Button, Heading, Icon)
+* Extract components to a component library
 
 # Getting Started with Create React App
 
