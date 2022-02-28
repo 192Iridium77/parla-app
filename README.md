@@ -4,16 +4,16 @@ Currently this is being used to extract out shared libraries and generate an app
 
 ## Goals
 
-Set up typescript
-Set up React Router
-Create a SSO login
-Extract each one to the cra-template
-Create basic components
-* menu
-* inputs
-* buttons
-* Heading
-* Icons
+* Set up typescript
+* Set up React Router
+* Create a SSO login
+* Extract each one to the cra-template
+* Create basic components
+** menu
+** inputs
+** buttons
+** Heading
+** Icons
 
 # Getting Started with Create React App
 
