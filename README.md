@@ -1,28 +1,16 @@
-## Upcoming components:
+# Parlour App
 
-- Homepage Header
-- Socials Block
-- Media Carousel
-- CTA Block
-- Accordion
-- Google Maps
-- Subscribe
-- UpNext
+Currently this is being used to extract out shared libraries and generate an application template.
 
-## Potential Upgrades:
+## Goals
 
-- Gallery Filters
-- Automate Webp optimisation
-- Hook up CMS
-- Articles
-- Events
-- metatags in CMS
-- Site search
-
-## Future Features:
-
-- e-commerce
-- custom forms
+* Set up Typescript
+* Set up eslint
+* Set up React Router
+* Create a SSO login
+* Extract these features to the cra-template
+* Create basic components (Menu, Input, Button, Heading, Icon)
+* Extract components to a component library
 
 # Getting Started with Create React App
 
